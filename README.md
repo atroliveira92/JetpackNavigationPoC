@@ -1,7 +1,5 @@
 # Jetpack navigation Prove of Concept
-This is a PoC Project that consists in a atempt to implement a multi-module navigation using the Jetpack navigation library.  
-The goal of this PoC is understand and apply a architecture that can support a navigation between feature modules without depends on each other.  
-This project is a simple example of a architecture approach and is open to feedbacks and changes.
+The goal of this PoC is understand and apply a architecture that can support a navigation between feature modules without depends on each other.
 
 # Modules
  - app: App module with a simple `MainActity` that works as a shell host to the feature's Fragments. Also, this module configure the DI framework 
