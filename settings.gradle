@@ -1,0 +1,9 @@
+rootProject.name = "JetpackNavigationPoc"
+include ':app'
+include ':features'
+include ':features:home'
+include ':features:profile'
+include ':features:credit_card'
+include ':commons'
+include ':features:settings'
+include ':entities'

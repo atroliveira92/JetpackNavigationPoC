@@ -1,0 +1,8 @@
+<resources>
+  <style name="Theme.JetpackNavigationPoc.NoActionBar" >
+  <item name="windowActionBar">false</item>
+  <item name="windowNoTitle">true</item>
+</style>
+  <style name="Theme.JetpackNavigationPoc.AppBarOverlay" parent="ThemeOverlay.AppCompat.Dark.ActionBar" />
+  <style name="Theme.JetpackNavigationPoc.PopupOverlay" parent="ThemeOverlay.AppCompat.Light" />
+</resources>

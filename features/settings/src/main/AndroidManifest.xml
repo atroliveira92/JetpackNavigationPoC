@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="utf-8"?>
+<manifest xmlns:android="http://schemas.android.com/apk/res/android"
+    package="com.venmo.features.settings" >
+
+    <application>
+        <activity
+            android:name=".SettingsActivity"
+            android:exported="true"
+            android:label="@string/title_activity_settigs"
+            android:theme="@style/Theme.JetpackNavigationPoc.NoActionBar" />
+    </application>
+
+</manifest>
